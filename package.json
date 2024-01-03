@@ -1,0 +1,14 @@
+{
+  "name": "deploy_gp",
+  "version": "0.0.1",
+  "homepage": "https://https-allan.github.io/BodyCheck",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "nmp run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
