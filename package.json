@@ -5,9 +5,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
+    "dev": "https-allan",
+    "build": "https-allan build",
+    "preview": "https-allan preview",
     "predeploy": "nmp run build",
     "deploy": "gh-pages -d dist"
   },
