@@ -5,9 +5,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "https-allan",
-    "build": "https-allan build",
-    "preview": "https-allan preview",
     "predeploy": "nmp run build",
     "deploy": "gh-pages -d dist"
   },
